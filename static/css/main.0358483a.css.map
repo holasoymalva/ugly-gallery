@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0358483a.css","mappings":"AAQA,kCAEE,wBACF","sources":["index.css"],"sourcesContent":["body {\n  font-family: 'Besley', serif;\n}\n\nh1, h2, h3, h4, h5, h6 {\n  font-family: 'Besley', serif;\n}\n\np, a, button {\n  /* font-family: 'Beth Ellen', cursive; */\n  font-family: 'Besley', serif;\n}"],"names":[],"sourceRoot":""}
